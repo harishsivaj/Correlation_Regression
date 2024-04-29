@@ -1,4 +1,5 @@
-# Correlation and regression for data analysis
+# EXPERIMENT : Correlation and regression for data analysis
+# DATE :
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
